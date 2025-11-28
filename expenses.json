@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "amount": 45.5,
+    "description": "Starbucks coffee and pastry",
+    "category": "food",
+    "date": "2025-11-28T15:03:20.534999",
+    "notes": "",
+    "created_at": "2025-11-28T15:03:20.535025"
+  },
+  {
+    "id": 2,
+    "amount": 60.7,
+    "description": "GTA 6",
+    "category": "other",
+    "date": "2025-11-28T15:03:50.226766",
+    "notes": "",
+    "created_at": "2025-11-28T15:03:50.226782"
+  },
+  {
+    "id": 3,
+    "amount": 20.0,
+    "description": "racing game",
+    "category": "entertainment",
+    "date": "2025-11-28T15:04:16.858477",
+    "notes": "",
+    "created_at": "2025-11-28T15:04:16.858486"
+  },
+  {
+    "id": 4,
+    "amount": 25.0,
+    "description": "grand theft auto 3",
+    "category": "other",
+    "date": "2025-11-28T15:04:42.056117",
+    "notes": "",
+    "created_at": "2025-11-28T15:04:42.056126"
+  },
+  {
+    "id": 5,
+    "amount": 44.0,
+    "description": "socks",
+    "category": "other",
+    "date": "2025-11-28T15:23:27.460489",
+    "notes": "",
+    "created_at": "2025-11-28T15:23:27.460504"
+  }
+]
